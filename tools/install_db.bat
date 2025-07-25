@@ -8,7 +8,7 @@ set "mysqlBinPath=C:\Program Files\MariaDB 10.4\bin"
 
 set "dbuser=root"
 set "dbpass=root"
-set "dbname=l2jdb"
+set "dbname=lucerav3"
 set "dbhost=localhost"
 set "sqlFolder=sql"
 REM ###########################################################
